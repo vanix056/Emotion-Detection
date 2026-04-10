@@ -35,7 +35,7 @@ Real-time facial emotion detection system that captures live webcam feed, identi
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/vanix056/Emotion-Detection.git
+git clone https://github.com/MAbdullahWaqar/Emotion-Detection.git
 cd Emotion-Detection
 
 # 2. Create and activate a virtual environment (recommended)
@@ -129,4 +129,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Author
 
-Developed by **vanix056**. For questions or suggestions, open an issue on the [GitHub repository](https://github.com/vanix056/Emotion-Detection).
+Developed by **Muhammad Abdullah Waqar**. For questions or suggestions, open an issue on the [GitHub repository](https://github.com/MAbdullahWaqar/Emotion-Detection).
